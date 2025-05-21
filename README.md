@@ -81,15 +81,44 @@ Use: Quick and safe hashing
 Note: Faster and more secure modern alternative to MD5/SHA.
 
 🖼️ Sample Runs / Output
-Text Encryption (AES)
+
+Symmetric Encryption/Decryption:
+Block Cipher (AES):
+( drop screenshot here )
+
+Stream Ciphere (RC4):
+( drop ss here!)
+
+Vigenère Ciphere:
+( droop ss here!)
+
+Asymmetric Encryption/Decryption:
+RSA:
+(drop ss! here)
+
+Diffie-Hellman:
+( drop screenshot here )
+
+Hashing:
+sha256:
+( drop screenshot here )
+
+sha512:
+( drop screenshot here )
+
+md5:
+( drop screenshot here )
+
+sha1:
+( drop screenshot here )
+
+Algorithm Information:
+( drop screenshot here )
+
+
 
  ![1000000458](https://github.com/user-attachments/assets/f33e1878-6316-47a2-8a7a-262c9ef5b269)
-Text Encryption (AES)
-![1000000459](https://github.com/user-attachments/assets/9e69931b-47ad-48e8-98c7-ab88daaae8df)
-Text Decryption (AES)
-![1000000460](https://github.com/user-attachments/assets/407ff26d-e86e-4db5-98ec-13693487078e)
-![1000000461](https://github.com/user-attachments/assets/8efd7b84-bb25-46a2-8157-7adbf6d71175)
-![1000000462](https://github.com/user-attachments/assets/10d544d2-d420-40cd-9380-f9ac4806157d)
+
 
 
 
