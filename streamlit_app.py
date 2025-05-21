@@ -354,14 +354,14 @@ elif choice == "Algorithm Information":
     """)
     st.subheader("Asymmetric Algorithms")
     st.markdown("""
-- **RSA**: Rivest–Shamir–Adleman, public-key cryptosystem, widely used for secure data transmission.
+- **RSA**: A foundational public-key encryption algorithm. It uses a public key for encryption and a private key for decryption. Suitable for secure message transmission, though relatively slow compared to modern alternatives.
 - **Diffie-Hellman**: Key exchange protocol for establishing a shared secret over an insecure channel.
     """)
     st.subheader("Hashing Functions")
     st.markdown("""
 - **SHA-256**: Secure Hash Algorithm 256-bit, widely used for integrity.
 - **SHA-512**: Secure Hash Algorithm 512-bit, stronger variant.
-- **MD5**: Message Digest 5, fast but not collision-resistant.
+- **MD5**: A fast but outdated hashing algorithm. Known vulnerabilities make it unsuitable for security-critical applications.
 - **SHA-1**: Secure Hash Algorithm 1, legacy, not recommended for security.
     """)
     st.subheader("References")
