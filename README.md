@@ -83,7 +83,11 @@ Note: Faster and more secure modern alternative to MD5/SHA.
 🖼️ Sample Runs / Output
 Text Encryption (AES)
 
- ![Screenshot 2025-05-21 184808](https://github.com/user-attachments/assets/2b86292d-d5ab-43ec-bbeb-3e389aad5aad)
+ ![1000000462](https://github.com/user-attachments/assets/386eb65c-22cf-48d1-afa0-d72865f050a4)
+![1000000461](https://github.com/user-attachments/assets/84d45fd5-a554-48ef-bfaa-9f33b3f6c90e)
+![1000000460](https://github.com/user-attachments/assets/6349f01f-8c6f-4019-89d7-5866f37f2ee7)
+![1000000459](https://github.com/user-attachments/assets/fb30b906-aa3c-43b8-ac53-29462c9e1ee3)
+![1000000458](https://github.com/user-attachments/assets/71ad1741-6cfa-4897-9723-8a90eed6d34e)
 
 
 
