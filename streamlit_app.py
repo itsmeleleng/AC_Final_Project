@@ -348,7 +348,7 @@ elif choice == "Algorithm Information":
     st.header("Algorithm Information")
     st.subheader("Symmetric Algorithms")
     st.markdown("""
-- **AES**: Advanced Encryption Standard, widely used block cipher, 128/192/256-bit keys.
+- **AES**: A widely adopted block cipher that operates on 128-bit blocks with key sizes of 128, 192, or 256 bits. It is considered highly secure and efficient for both data storage and communication.
 - **RC4**: Rivest Cipher 4, stream cipher, variable key length.
 - **Vigenère Cipher**: Classic encryption algorithm using a keyword for shifting letters.
     """)
