@@ -84,41 +84,62 @@ Note: Faster and more secure modern alternative to MD5/SHA.
 
 Symmetric Encryption/Decryption:
 Block Cipher (AES):
-( drop screenshot here )
+
+![1747835681680](https://github.com/user-attachments/assets/4d353fbb-20df-4448-9a8a-da58a218a4ed)
+![1747835704307](https://github.com/user-attachments/assets/b7516cc5-11ed-4911-b396-82db52722505)
+
 
 Stream Ciphere (RC4):
-( drop ss here!)
+
+![1747835798954](https://github.com/user-attachments/assets/978120f5-0c54-44d3-860a-9514b977873d)
+![1747835803513](https://github.com/user-attachments/assets/e9a26d16-7e9f-4392-b9b6-ef69dd637320)
+
 
 Vigenère Ciphere:
-( droop ss here!)
+
+![1747836191018](https://github.com/user-attachments/assets/ba66d573-c094-4db1-9ca5-e5dfcb2d25b4)
+![1747836197763](https://github.com/user-attachments/assets/370fbc33-1507-4c0d-b414-2d8b8aa1b373)
+
 
 Asymmetric Encryption/Decryption:
 RSA:
-(drop ss! here)
+
+![1747836635674](https://github.com/user-attachments/assets/bc56192e-b08b-4da1-b2b3-bb710b2a34c2)
+
 
 Diffie-Hellman:
-( drop screenshot here )
+
+![1747835975713](https://github.com/user-attachments/assets/bfb7c2ee-4ff2-475c-a711-4a21d11d3afc)
+
 
 Hashing:
 sha256:
-( drop screenshot here )
+
+![1747836047587](https://github.com/user-attachments/assets/72284552-78de-4ea3-b6a2-a745a23ff06c)
+
 
 sha512:
-( drop screenshot here )
+
+![1747836295762](https://github.com/user-attachments/assets/d3ba8768-a52d-4fee-b88b-8d8e31d34387)
+
 
 md5:
-( drop screenshot here )
+
+![1747836434618](https://github.com/user-attachments/assets/0cb4a87d-4a27-4455-a6a4-b11a0e46e8bf)
+
 
 sha1:
-( drop screenshot here )
+
+![1747836924090](https://github.com/user-attachments/assets/4fa21f57-3378-48c6-82cf-3d3dcf316861)
 
 Algorithm Information:
-( drop screenshot here )
+
+![1747836132213](https://github.com/user-attachments/assets/b03a87f6-8a9c-4894-9a5b-d509bcf550ca)
 
 
 
- ![1000000458](https://github.com/user-attachments/assets/f33e1878-6316-47a2-8a7a-262c9ef5b269)
 
+ 
 
 
 
