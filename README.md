@@ -1,9 +1,3 @@
-FP_AC_JULIANES_BELEN_LARESMA_BSCS3A
-
-                 CSAC 329 - Applied Cryptography
-
-                                 Final Project
-
 Project Title: Applied Cryptography Application
 
 Course Name: CSAC 329 - Applied Cryptography
@@ -81,8 +75,8 @@ Note: Still helpful for fast file comparison and checksums.
 Hashlib is the library.
 Use: Quick and safe hashing
 Note: Faster and more secure modern alternative to MD5/SHA.
-🖼️ Sample Runs / Output
 
+🖼️ Sample Runs / Output
 Text Encryption (AES)
 
  
