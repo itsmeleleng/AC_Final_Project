@@ -47,7 +47,8 @@ Kind: Symmetric
 Library: The Pycryptodome  
 Use: File and text encryption and decryption
 Note: Secure and widely used.  Blocks of encryption with a secret key.
- 2.  Data Encryption Standard, or DES  
+
+2.  Data Encryption Standard, or DES  
 
 Kind: Symmetric  
 Library: The Pycryptodome
@@ -55,31 +56,35 @@ Use: Encrypting and decrypting text
 Note: Older standard, primarily for educational reasons.
 🔐 Hashing Features They create fixed-size digests from data that cannot be decrypted.
 
- 6. The 256-bit Secure Hash Algorithm, or SHA-256
+6. The 256-bit Secure Hash Algorithm, or SHA-256
 
-Hashlib is the library.
+Library: Hashlib
 Use: Text and file hashing•
 Note: Frequently found in digital signatures and blockchain.
+
 7. SHA-512
 
-Hashlib is the library. •
+Library: Hashlib •
 Use: Text and file hashing•
 Note: Greater collision resistance is achieved with a larger digest size.
+
 8. MD5
 
-Hashlib is the library.
+Library: Hashlib.
 Use: Secure but quick hashing
 Note: Still helpful for fast file comparison and checksums.
+
 9. BLAKE2b
 
-Hashlib is the library.
+Library: Hashlib.
 Use: Quick and safe hashing
 Note: Faster and more secure modern alternative to MD5/SHA.
 
 🖼️ Sample Runs / Output
 Text Encryption (AES)
 
- 
+ ![Screenshot 2025-05-21 184808](https://github.com/user-attachments/assets/2b86292d-d5ab-43ec-bbeb-3e389aad5aad)
+
 
 
 
